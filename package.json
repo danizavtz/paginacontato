@@ -1,0 +1,25 @@
+{
+  "name": "paginacontato",
+  "version": "1.0.0",
+  "description": "página contato nodemailer nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node bin/www",
+    "dev": "node bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danizavtz/paginacontato.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danizavtz/paginacontato/issues"
+  },
+  "homepage": "https://github.com/danizavtz/paginacontato#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2"
+  }
+}
