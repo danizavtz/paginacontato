@@ -10,7 +10,7 @@ const html = `
         <title>Contato</title>
       </head>
       <body>
-        <form id="suggestion-form" method="post" action="/sendmail">
+        <form id="suggestion-form" method="post" action="/contato">
             <label><span>Name</span></label>
             <input id="name" name="name" type="text" placeholder="Name" required/>
             <br>
